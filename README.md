@@ -48,14 +48,8 @@ A full subtractor is a combinational circuit that performs subtraction involving
 
 Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 
-## Procedure
 
-
-
-Write the detailed procedure here 
-
-
-## Program:
+# Program:
 ```
 Developed by: Harsshitha lakshmanan
 RegisterNumber: 212223230075
@@ -77,5 +71,5 @@ endmodule
 # Timing Diagram:
 ![image](https://github.com/harshulaxman/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145686689/e0e5b37f-9d5a-4e0c-9208-4794fcbdc874)
 
-## Result:
+# Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
